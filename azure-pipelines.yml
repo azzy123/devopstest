@@ -5,7 +5,7 @@
 
 trigger:
 - master
-
+# we can check this ubuntu
 pool:
   vmImage: 'ubuntu-latest'
 
